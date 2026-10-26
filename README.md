@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assetsbanner.svg" alt="Kali Linux Cybersecurity Lab Banner" width="100%">
+  <img src="Snapchat-306242811.jpg" alt="Kali Linux Cybersecurity Lab Banner" width="100%">
 </p><h1 align="center">🛡️ Kali Linux Cybersecurity Lab</h1><p align="center">
   <strong>Learn • Practise • Secure • Improve</strong>
 </p><p align="center">
